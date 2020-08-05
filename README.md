@@ -35,11 +35,11 @@ and change ID to your Bot-ID, you'll find this on the Discord Developers Website
 #### The Bot-Commands:
 `bomb`: Delete everything. Every role. Every channel. Every emoji and invite. Say goodbye to your discord-server.
 
-`all_kick`: Kick every member of your discord-server.
-`all_ban`: Ban every member of your discord-server.
-`all_dm [message]`: DM every member of your discord-server with a given message.
-`del_roles`: Delete every single role of your discord-server.
-`del_channels`: Delete every single channel of your discord-server.
-`del_emojis`: Delete every single emoji of your discord-server.
-`del_invites`: Delete every single invite of your discord-server.
+- `all_kick`: Kick every member of your discord-server.
+- `all_ban`: Ban every member of your discord-server.
+- `all_dm [message]`: DM every member of your discord-server with a given message.
+- `del_roles`: Delete every single role of your discord-server.
+- `del_channels`: Delete every single channel of your discord-server.
+- `del_emojis`: Delete every single emoji of your discord-server.
+- `del_invites`: Delete every single invite of your discord-server.
 
