@@ -2,7 +2,7 @@
 💣 Guildbomb is a simple discord-bot, which shows you how easy it can be to raid a discord-server within one minute, so everybody will be banned, all emojis will be deleted, all invites will be deleted, every role and every channel too..
 
 ## What's the Guildbomb Bot?
-The Guildbomb Bot is a raid bot with a simple configuration.
+The Guildbomb Bot is a raid bot with a simple configuration, inspired from the [innocent bot](https://github.com/Da532/Innocent-bot).
 
 ## Why did you code this?
 It's one of my first projects tbh, I published the Guildbomb to show everyone how easy it can be to raid discord-servers
@@ -20,3 +20,26 @@ Alright, you can do that. But please use an alt-account AND [create a template](
 - https://discord.style/template?id=48
 - https://discord.style/template?id=50
 - https://discord.style/template?id=193
+
+## Let's start:
+1. Be sure, that every change and damage happened, using the Guildbomb Bot will be absolutly YOUR fault.
+2. Login in to an alt-account and go to [Discord's Developerpage](https://discord.com/developers/applications).
+3. Create an application now, go to the Category "Bot" in your created application and copy the BOT-TOKEN, you'll need that later.
+4. After you downloaded the Guildbomb Bot, open/edit the *data.py*, you'll find this file in the *UtilsDirectory*.
+5. Put your Bot-Token instead of the "X" in and change the prefix if you want to use another one.
+6. Now invite the Bot with clicking [here](https://discord.com/oauth2/authorize?client_id=ID&scope=bot&permissions=8)
+and change ID to your Bot-ID, you'll find this on the Discord Developers Website.
+7. After you invited the Bot to your discord-server (hopely a template-server), you can easily just start the *mainbomb.py*.
+
+## The Bot Usage:
+#### The Bot-Commands:
+`bomb`: Delete everything. Every role. Every channel. Every emoji and invite. Say goodbye to your discord-server.
+
+`all_kick`: Kick every member of your discord-server.
+`all_ban`: Ban every member of your discord-server.
+`all_dm [message]`: DM every member of your discord-server with a given message.
+`del_roles`: Delete every single role of your discord-server.
+`del_channels`: Delete every single channel of your discord-server.
+`del_emojis`: Delete every single emoji of your discord-server.
+`del_invites`: Delete every single invite of your discord-server.
+
