@@ -16,7 +16,7 @@ Alright, you can do that. But please use an alt-account AND [create a template](
 
 ###### Some templates you could use for example:
 - https://discord.style/template?id=1
-- https://discord.style/template?id=193
+- https://discord.style/template?id=7
 - https://discord.style/template?id=48
 - https://discord.style/template?id=50
-- https://discord.style/template?id=7
+- https://discord.style/template?id=193
