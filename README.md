@@ -33,7 +33,7 @@ and change ID to your Bot-ID, you'll find this on the Discord Developers Website
 
 ## The Bot Usage:
 #### The Bot-Commands:
-`bomb`: Delete everything. Every role. Every channel. Every emoji and invite. Say goodbye to your discord-server.
+`bomb`: [Delete everything. Every role. Every channel. Every emoji and invite. Say goodbye to your discord-server.](https://github.com/ARealWant/Guildbomb/wiki/The-Guildbomb-Raidcommand)
 
 - `all_kick`: Kick every member of your discord-server.
 - `all_ban`: Ban every member of your discord-server.
