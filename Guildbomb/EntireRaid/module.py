@@ -48,7 +48,7 @@ class RaidModule(commands.Cog):
                             await roles.delete()
                         except Exception:
                             pass
-                    print(f"Deleted all roles.")
+                    print(f"Deleted all roles!")
                     return
                 if msg.content == "n":
                     await ctx.send(no_msg)
