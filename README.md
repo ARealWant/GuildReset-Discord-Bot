@@ -43,4 +43,4 @@ and change ID to your Bot-ID, you'll find this on the Discord Developers Website
 - `del_emojis`: Delete every single emoji of your discord-server.
 - `del_invites`: Delete every single invite of your discord-server.
 
-##### I didn't test Guildbomb so far, errors aren't excluded.
+##### * I didn't test Guildbomb so far, errors aren't excluded.
