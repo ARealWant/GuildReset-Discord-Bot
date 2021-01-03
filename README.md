@@ -1,7 +1,8 @@
 # Guildbomb - Raiding Bot*
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-[![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)]()  
-[![Language Percentage](https://img.shields.io/github/languages/top/ARealWant/Guildbomb-Discord-Raid-Bot)]()  
+[![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)]
+[![Language Percentage](https://img.shields.io/github/languages/top/ARealWant/Guildbomb-Discord-Raid-Bot)]
+[![Star Repo](https://img.shields.io/github/stars/ARealWant/Guildbomb-Discord-Raid-Bot?style=social)]()  
 
 💣 Guildbomb is a simple discord-bot, which shows you how easy it can be to raid a discord-server within one minute, so everybody will be banned, all emojis will be deleted, all invites will be deleted, every role and every channel too..
 
