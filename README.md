@@ -1,6 +1,6 @@
 # Guildbomb - Raiding Bot*
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-![GitHub Release]https://img.shields.io/github/v/release/ARealWant/Guildbomb-Discord-Raid-Bot)
+![GitHub Release](https://img.shields.io/github/v/release/ARealWant/Guildbomb-Discord-Raid-Bot)
 ![Language Percentage](https://img.shields.io/github/languages/top/ARealWant/Guildbomb-Discord-Raid-Bot)
 [![Star Repo](https://img.shields.io/github/stars/ARealWant/Guildbomb-Discord-Raid-Bot?color=%236c5ce7)]()  
 
