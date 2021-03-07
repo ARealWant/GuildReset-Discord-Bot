@@ -1,8 +1,11 @@
 '  The Imports (Do not change anything right here)  '
 from UtilsDirectory.data import *
 
-'  The Botprefix  '
-bot = commands.Bot(command_prefix=dc_prefix)
+'  Enable Intents due to discord making us enable intents to get the member list   '
+intents = discord.Intents.all()
+
+'  The Bot prefix and using intents.  '
+bot = commands.Bot(command_prefix=dc_prefix, intents=intents)
 
 '  The Botstart  '
 @bot.event
