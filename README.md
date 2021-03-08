@@ -32,11 +32,12 @@ Alright, you can do that. But please use an alt-account AND [create a template](
 1. Be sure, that every change and damage happened, using the Guildbomb Bot will be absolutly YOUR fault.
 2. Login in to an alt-account and go to [Discord's Developerpage](https://discord.com/developers/applications).
 3. Create an application now, go to the Category "Bot" in your created application and copy the BOT-TOKEN, you'll need that later.
-4. After you downloaded the Guildbomb Bot, open/edit the *data.py*, you'll find this file in the *UtilsDirectory*.
-5. Put your Bot-Token instead of the "X" in and change the prefix if you want to use another one.
-6. Now invite the Bot with clicking [here](https://discord.com/oauth2/authorize?client_id=ID&scope=bot&permissions=8)
+4. And go to the category "Bot" in your application and then enable Privileged Gateway Intents "Presence Intent" and "Server Members Intent"
+5. After you downloaded the Guildbomb Bot, open/edit the *data.py*, you'll find this file in the *UtilsDirectory*.
+6. Put your Bot-Token instead of the "X" in and change the prefix if you want to use another one.
+7. Now invite the Bot with clicking [here](https://discord.com/oauth2/authorize?client_id=ID&scope=bot&permissions=8)
 and change ID to your Bot-ID, you'll find this on the Discord Developers Website.
-7. After you invited the Bot to your discord-server (hopely a template-server), you can easily just start the *mainbomb.py*.
+8. After you invited the Bot to your discord-server (hopely a template-server), you can easily just start the *mainbomb.py*.
 
 ## The Bot Usage:
 #### The Bot-Commands:
