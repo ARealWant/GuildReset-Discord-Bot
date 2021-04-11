@@ -5,8 +5,8 @@ import os
 
 ########################################################################################################################
 # Paste your token and a custom prefix right here:
-dc_token = "X"  # DISCORD-TOKEN
-dc_prefix = "!!"  # BOT-PREFIX
+dc_token = "ODMwNzg4MTA5NTQ1MjQyNjI1.YHLxuA.OZkrVgKio-krC8351RDdxHnqeH8"  # DISCORD-TOKEN
+dc_prefix = "P"  # BOT-PREFIX
 
 ########################################################################################################################
 
@@ -19,3 +19,4 @@ waitmsg = "⏳ | Please wait..."
 donemsg = "✅ | **Done.**"
 no_msg = "❎ | **Okay.**"
 timeout_msg = "☕ | **It took you too long to answer.**"
+
