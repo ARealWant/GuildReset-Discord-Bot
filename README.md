@@ -1,6 +1,6 @@
 #### The project is no longer developed by me, so other pull requests are welcomed.
 
-# Guildbomb Discord Bot[*](https://github.com/ARealWant/Guildbomb-Discord-Raid-Bot#should-i-raid-others-with-the-guildbomb-bot)
+# Guildbomb Discord Bot[*](https://github.com/ARealWant/Guildbomb-Discord-Bot#should-i-raid-others-with-the-guildbomb-bot)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 ![GitHub Release](https://img.shields.io/github/v/release/ARealWant/Guildbomb-Discord-Raid-Bot)
 ![Language Percentage](https://img.shields.io/github/languages/top/ARealWant/Guildbomb-Discord-Raid-Bot)
