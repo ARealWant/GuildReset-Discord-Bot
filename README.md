@@ -1,7 +1,7 @@
 ### ✍️ Pull requests are welcome!
 
-# [WARNING] READ [THIS](https://github.com/ARealWant/Guildbomb-Discord-Raid-Bot#should-i-raid-others-with-the-guildbomb-bot) FIRST
-## USING THIS WITH BAD INTENTIONS ON DISCORD IS GUARANTEED TO RESULT IN A BAN.
+# Guildbomb Discord Bot ([READ THIS](https://github.com/ARealWant/Guildbomb-Discord-Raid-Bot#should-i-raid-others-with-the-guildbomb-bot))
+### USING THIS WITH BAD INTENTIONS ON DISCORD IS GUARANTEED TO RESULT IN A BAN.
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 ![GitHub Release](https://img.shields.io/github/v/release/ARealWant/Guildbomb-Discord-Raid-Bot)
 ![Language Percentage](https://img.shields.io/github/languages/top/ARealWant/Guildbomb-Discord-Raid-Bot)
