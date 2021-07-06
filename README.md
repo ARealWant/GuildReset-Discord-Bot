@@ -13,8 +13,7 @@
 The Guildbomb Bot is a raid bot with a simple configuration, inspired from the [innocent bot](https://github.com/Da532/Innocent-bot) by Da532.
 
 ## Why did you code this?
-It's one of my first projects tbh, I published the Guildbomb to show everyone how easy it can be to raid discord-servers
-Discord raids aren't that rare, that's the reason why I also published an [Antiraid Bot which's called Crowby](https://crowby.me/)
+It's one of my first projects tbh, I published the Guildbomb to show everyone how easy it can be to raid discord-servers, raids aren't rare, that's the reason why I also published an [Antiraid Bot which's called Crowby](https://crowby.me/)
 
 ## Should I raid others with the Guildbomb Bot?
 **NO.** I really advise against it, raiding others is against the Discord TOS so please, **don't do it.**
