@@ -33,6 +33,8 @@ Learn more about Discord templates by clicking [here](https://support.discord.co
 - discords.com
 
 ## The Bot Usage:
+It's important to note that these commands can be very dangerous and should be used with caution, as they can permanently delete important data and disrupt the functioning of a server. You should make sure to properly protect and restrict access to these commands to prevent accidental or malicious misuse.
+
 - /start channels: Begin the process of deleting all channels on the server
 - /start roles: Begin the process of deleting all roles on the server
 - /start emojis: Begin the process of deleting all emojis on the server
