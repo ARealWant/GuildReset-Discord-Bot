@@ -4,7 +4,7 @@
 ![Language Percentage](https://img.shields.io/github/languages/top/ARealWant/Guildbomb-Discord-Raid-Bot)
 [![Star Repo](https://img.shields.io/github/stars/ARealWant/Guildbomb-Discord-Raid-Bot?color=%236c5ce7)]()  
 
-🗑️ Discord Bot Guildbomb will help you delete all the settings set up on your Discord server. The settings include roles, channels and e.g. server invitations. This Discord bot should help you if you are not satisfied with the current design of your server. This bot is not intended to attack other Discord servers to cause damage, please note that this would be against the terms of use of Discord Inc.
+🗑️ Discord Bot Guildbomb will help you delete all the settings set up on your Discord server. The settings include roles, channels and e.g. server invitations. This Discord bot should help you if you are not satisfied with the current design of your server. **This bot is not intended to attack other Discord servers to cause damage, please note that this would be against the terms of use of Discord Inc.**
 
 # Getting started
 ### Discord: Preparatory work
