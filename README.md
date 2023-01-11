@@ -14,7 +14,7 @@ Written by [ARealWant](https://github.com/ARealWant)
 6. Open the bot tab and enable all Privileged Gateway Intents.
 ### Python: Preparatory work
 1. Install Python on your [computer](https://www.python.org/downloads/) unlesss you already have it install or if you don't have a computer, on your [mobile device](https://www.python.org/community/sigs/current/mobile-sig/).
-2. Download the latest .zip version from the [Code tab]() of the repository.
+2. Download the latest .zip version from the [Code tab](https://github.com/Happpydust/Nextcord-Guildbomb-Discord-Bot/archive/refs/heads/master.zip) of the repository.
 3. Install Nextcord with this for macOS or the command for linux command
 ```python
 python3 -m pip install -U nextcord
