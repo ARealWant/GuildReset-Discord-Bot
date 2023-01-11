@@ -13,13 +13,14 @@ Written by [ARealWant](https://github.com/ARealWant)
 5. Copy the token of the application.
 6. Open the bot tab and enable all Privileged Gateway Intents.
 ### Python: Preparatory work
-1. Install Python on your [computer](https://www.python.org/downloads/) or if you don't have a computer, on your [mobile device](https://www.python.org/community/sigs/current/mobile-sig/).
+1. Install Python on your [computer](https://www.python.org/downloads/) unlesss you already have it install or if you don't have a computer, on your [mobile device](https://www.python.org/community/sigs/current/mobile-sig/).
 2. Download the latest .zip version from the [releases tab](https://github.com/ARealWant/Guildbomb-Discord-Bot/releases) of the repository.
 3. Install Nextcord with the command
 ```python
 # Linux/macOS
 python3 -m pip install -U nextcord
 ```
+Or if you're on windows
 ```py3 -m pip install -U nextcord
 ```
 ### Start the Discord bot
