@@ -15,8 +15,7 @@ Written by [ARealWant](https://github.com/ARealWant)
 ### Python: Preparatory work
 1. Install Python on your [computer](https://www.python.org/downloads/) or if you don't have a computer, on your [mobile device](https://www.python.org/community/sigs/current/mobile-sig/).
 2. Download the latest .zip version from the [releases tab](https://github.com/ARealWant/Guildbomb-Discord-Bot/releases) of the repository.
-3. Install the requirements.txt. [How to do this?](https://note.nkmk.me/en/python-pip-install-requirements/)
-
+3. Install Nextcord with the command 
 ### Start the Discord bot
 1. Start the main.py and then enter the token copied before into the terminal.
 2. Type `/start` into the chat and choose one of the reset-options, please note that you have to confirm every single command.
