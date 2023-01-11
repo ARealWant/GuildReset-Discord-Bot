@@ -1,10 +1,10 @@
 import asyncio
 
-import discord
-from discord import app_commands
+import nextcord
+from nextcord import app_commands
 from discord.app_commands import Group
-from discord.ext import commands
-from discord.ext.commands import has_permissions
+from nextcord.ext import commands
+from nextcord.ext.commands import has_permissions
 from Features.reset import RESET
 
 
