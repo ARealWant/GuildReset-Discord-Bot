@@ -1,3 +1,4 @@
+Written by @ARealWant
 # Guildbomb - Reset your Discord server with ease!  
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 ![GitHub Release](https://img.shields.io/github/v/release/ARealWant/Guildbomb-Discord-Raid-Bot)
