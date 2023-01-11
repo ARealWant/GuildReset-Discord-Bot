@@ -21,7 +21,8 @@ Written by [ARealWant](https://github.com/ARealWant)
 python3 -m pip install -U nextcord
 ```
 Or if you're on windows
-```py3 -m pip install -U nextcord
+```python
+py3 -m pip install -U nextcord
 ```
 ### Start the Discord bot
 1. Start the main.py and then enter the token copied before into the terminal.
