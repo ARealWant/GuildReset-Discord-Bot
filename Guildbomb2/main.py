@@ -4,10 +4,6 @@ import json
 import nextcord
 from nextcord.ext import commands
 
-intents = discord.Intents.all()
-bot = commands.Bot(command_prefix="!",
-                   case_insensitive=True, intents=intents,
-                   help_command=None, status=discord.Status.offline)
 
 @bot.event
 async def on_ready():
