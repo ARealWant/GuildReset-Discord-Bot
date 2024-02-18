@@ -1,8 +1,8 @@
 # GuildReset - Reset your Discord server with ease!  
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-![GitHub Release](https://img.shields.io/github/v/release/ARealWant/GuildReset-Discord-Raid-Bot)
-![Language Percentage](https://img.shields.io/github/languages/top/ARealWant/GuildReset-Discord-Raid-Bot)
-[![Star Repo](https://img.shields.io/github/stars/ARealWant/GuildReset-Discord-Raid-Bot?color=%236c5ce7)]()  
+![GitHub Release](https://img.shields.io/github/v/release/ARealWant/GuildBomb-Discord-Raid-Bot)
+![Language Percentage](https://img.shields.io/github/languages/top/ARealWant/GuildBomb-Discord-Raid-Bot)
+[![Star Repo](https://img.shields.io/github/stars/ARealWant/GuildBomb-Discord-Raid-Bot?color=%236c5ce7)]()  
 
 🗑️ Discord Bot GuildReset will help you delete all the settings set up on your Discord server. The settings include roles, channels and e.g. server invitations. This Discord bot should help you if you are not satisfied with the current design of your server. **This bot is not intended to attack other Discord servers to cause damage, please note that this would be against the terms of use of Discord Inc.**
 
@@ -17,7 +17,7 @@
 6. Open the bot tab and enable all Privileged Gateway Intents.
 ### Python: Preparatory work
 1. Install Python on your [computer](https://www.python.org/downloads/) or if you don't have a computer, on your [mobile device](https://www.python.org/community/sigs/current/mobile-sig/).
-2. Download the latest .zip version from the [releases tab](https://github.com/ARealWant/GuildReset-Discord-Bot/releases) of the repository.
+2. Download the latest .zip version from the [releases tab](https://github.com/ARealWant/GuildBomb-Discord-Bot/releases) of the repository.
 3. Install the requirements.txt. [How to do this?](https://note.nkmk.me/en/python-pip-install-requirements/)
 
 ### Start the Discord bot
